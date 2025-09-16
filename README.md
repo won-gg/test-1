@@ -21,8 +21,17 @@ int x,y
 x++
 ```
 
+---
+
 ### 링크 사용하기
 
 <https://www.youtube.com/embed/vbSl6eyZIFo?list=TLPQMTYwOTIwMjVB-qm6rpSh9A>
 
 [비긴어게인 플레이리스트](https://www.youtube.com/embed/vbSl6eyZIFo?list=TLPQMTYwOTIwMjVB-qm6rpSh9A, "어쩌구저쩌구")
+
+---
+
+## 이미지 삽입하기
+![프로필 이미지](IMG_3763.JPG)
+
+---
